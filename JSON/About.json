@@ -3,7 +3,7 @@
     "name": "Jose Malé Franch",
     "profession": "Frontend Developer",
     "photo": "https://i.ibb.co/th8HyF2/jose.png",
-    "about_me": "Soy comunicador social, geek y entusiasta de la tecnología. Amo hacer desarrollo web, sobretodo frontend. Confío en la colaboración entre comunidades para lograr un mejor ecosistema digital.",
+    "about_me": "Soy comunicador social, geek y entusiasta de la tecnología. Amo hacer desarrollo web, sobretodo frontend.<br> Confío en la colaboración entre comunidades para lograr un mejor ecosistema digital.",
     "skills": ["Javascript", "NodeJs", "ReactJS", "HTML", "CSS", "MySQL"]
   }
 ]
