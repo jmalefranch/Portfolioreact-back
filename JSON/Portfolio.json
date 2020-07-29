@@ -34,11 +34,5 @@
     "description": "Proyecto realizado con HTML, MySQL, Node.js, Express y Docker.",
     "image": "http://cv.giulianaolmos.guixon.com/rompecabezas-icon.png",
     "link": "https://github.com/jmalefranch/PeliVSPeli"
-  },
-  {
-    "name": "Ciudad Zombie",
-    "description": "Proyecto de POO, en JS.",
-    "image": "http://cv.giulianaolmos.guixon.com/rompecabezas-icon.png",
-    "link": "https://github.com/jmalefranch/CiudadZombie"
   }
 ]
