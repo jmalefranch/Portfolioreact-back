@@ -1,15 +1,45 @@
 [
-    {
-        "name": "CV",
-        "description": "Utilicé HTML, CSS, JS y Bootstrap para hacer mi cv web.",
-        "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-        "link" : "http://cvjosemalefranch.somosbio.com.ar/"
-    },
-    {
-        "name": "Homebanking",
-        "description": "Proyecto realizado en HTML, CSS y JS. Simula ser un Homebanking.",
-        "image": "http://cv.giulianaolmos.guixon.com/rompecabezas-icon.png",
-        "link": "https://github.com/jmalefranch/Homebanking"
-    }
+  {
+    "name": "CV",
+    "description": "Utilicé HTML, CSS, JS y Bootstrap para hacer mi cv web.",
+    "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+    "link": "http://cvjosemalefranch.somosbio.com.ar/"
+  },
+  {
+    "name": "Homebanking",
+    "description": "Proyecto realizado en HTML, CSS y JS. Simula ser un Homebanking.",
+    "image": "http://cv.giulianaolmos.guixon.com/rompecabezas-icon.png",
+    "link": "https://github.com/jmalefranch/Homebanking"
+  },
+  {
+    "name": "Rompecabezas",
+    "description": "Juego de rompecabezas hecho con HTML, CSS, Javascript y Jquery.",
+    "image": "http://cv.giulianaolmos.guixon.com/rompecabezas-icon.png",
+    "link": "https://github.com/jmalefranch/Rompecabezas"
+  },
+  {
+    "name": "Ciudad Zombie",
+    "description": "Proyecto de POO, en JS.",
+    "image": "http://cv.giulianaolmos.guixon.com/rompecabezas-icon.png",
+    "link": "https://github.com/jmalefranch/CiudadZombie"
+  },
 
-]   
+  {
+    "name": "PixelArt",
+    "description": "Proyecto realizado en HTML, CSS, JS y Jquery.",
+    "image": "http://cv.giulianaolmos.guixon.com/rompecabezas-icon.png",
+    "link": "https://github.com/jmalefranch/PixelArt"
+  },
+  {
+    "name": "Reservando",
+    "description": "Proyecto de testing Mocha, Chai y refactoring.",
+    "image": "http://cv.giulianaolmos.guixon.com/rompecabezas-icon.png",
+    "link": "https://github.com/jmalefranch/Reservando"
+  },
+  {
+    "name": "PeliVSPeli",
+    "description": "Proyecto realizado con HTML, MySQL, Node.js, Express y Docker.",
+    "image": "http://cv.giulianaolmos.guixon.com/rompecabezas-icon.png",
+    "link": "https://github.com/jmalefranch/PeliVSPeli"
+  }
+]
